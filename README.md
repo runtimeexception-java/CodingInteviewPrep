@@ -1,1 +1,3 @@
 # CodingInteviewPrep
+This project aims to be a guide to prepare for coding related programming interviews. This is not a comprehensive guide but gives one
+the basic tools that are needed for problem solving. These are study materials and seldom a direct quesiton is asked from these. In most cases questions require one or more of these tools to be used together to solve a problem. In order to be able to find out which tools are needed, there is no substitute for experience. It is best to do coding preparations from sites that offer coding excercises. In this project I am trying to create a one stop refresher / bootstrapper to get folks started.
