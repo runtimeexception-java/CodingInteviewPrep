@@ -1,0 +1,68 @@
+Study plan
+# Algorithms
+1. Trees
+ 1. Bfs
+  a. using recursion
+  b. using stacks / queues.
+ 2. Dfs
+  a. PreOrder / Post Order / In order
+   1. Each using recursion, stacks, queues
+ 3. AVL trees
+ 4. B / B+ trees
+ 5. LSM trees
+ 6. Augmented Trees
+  1. Range Trees
+ 7. KD trees, Quad trees
+  1. Nearest neighbor searches
+ 8. Prefix Trees
+ 9. Suffix trees.
+
+2. Graphs
+ 1. Bfs
+ 2. Dfs
+ 3. Shortest Paths
+  a. Diskstras
+  b. Floyd Warshall
+  c. Bellman Ford
+ 4. Min Spanning Trees
+  a. Prims
+  b. Kruskals
+
+3. Sorting
+ 1. Bubble Sort
+ 2. Merge Sort
+ 3. Selection Sort
+ 4. Heap Sort
+ 5. Radix Sort
+ 6. Quick Sort
+ 7. External Sort
+ 
+4. Heap
+ 1. Min heap / Max heap
+ 2. Building heap, extract min / max
+ 
+5. Searching
+ 1. Binary Searching
+ 2. Modified binary searching shifted array
+
+6. Recursion / Dynamic Programming
+ 1. Subset sum
+ 2. Longest increasing subsequence
+ 3. edit distance
+ 4. Kth largest element
+ 5. Longest common subsequence
+ 6. Max cont elements sum
+ 7. .. fill in more
+ 
+ 
+# Design questions
+Study the design questions for Grokking the system design iterviews and update plan here 
+
+
+
+
+
+ 
+ 
+ 
+ 
